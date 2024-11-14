@@ -1,0 +1,31 @@
+_repo: Code-of-the-Mounted_74699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruess, Floria Howe
+    gutenberg_agent_id: '57606'
+    url: http://www.gutenberg.org/2009/agents/57606
+description: Produced from the October 20, 1928 issue of Argosy All-Story Weekly magazine.
+gutenberg_issued: '2024-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74699'
+language: en
+pgterms:marc905: 20240802004223bruess
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Frank A. Munsey Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcsh 'Epidemics -- Fiction'
+- !lcsh 'Smallpox -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Code of the Mounted
+url: http://www.gutenberg.org/ebooks/74699
