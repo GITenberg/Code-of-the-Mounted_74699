@@ -1,11 +1,16 @@
 _repo: Code-of-the-Mounted_74699
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74699-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruess, Floria Howe
     gutenberg_agent_id: '57606'
     url: http://www.gutenberg.org/2009/agents/57606
 description: Produced from the October 20, 1928 issue of Argosy All-Story Weekly magazine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74699#Code-of-the-Mounted
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
